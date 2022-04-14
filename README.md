@@ -1,4 +1,4 @@
-# Warehouse Management System Using Laravel (INT221 CA3)
+# Warehouse Management System Using Laravel (CA3)
 By: Rahul Singh Raghav (11914811) RKM041A13
 
 The Warehouse Management System project in Laravel is a program in web application that helps small companies manage inventory and stock systems, sales, delivery tracking and transactions. This program also includes a user-friendly interface that displays useful information on sales, products, revenue, sales, and transactions.
